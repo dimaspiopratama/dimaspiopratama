@@ -1,5 +1,5 @@
 ## Hello... 👋😁
-(<img width="2427" height="690" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/f7b9b97a-9c24-4643-b728-30fbd3cc07ba" />
+<img width="2427" height="690" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/f7b9b97a-9c24-4643-b728-30fbd3cc07ba" />
 
 Saya adalah mahasiswa yang sedang belajar dan mengembangkan kemampuan di bidang **Data Science**.
 
