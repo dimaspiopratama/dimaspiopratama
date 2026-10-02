@@ -37,3 +37,11 @@ Here are some ideas to get you started:
 
 Terus belajar, mengembangkan kemampuan, dan membangun
 berbagai proyek di bidang teknologi.
+
+## Skills
+
+<img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue' />
+<img src='https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white' />
+<img src='https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white' />
+<img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white' />
+
